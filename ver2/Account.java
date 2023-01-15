@@ -11,10 +11,7 @@ public class Account {
 		return msg;
 	}
 	
-	// Constructor
-	public Account(double balance) {
-		this("Unknown", balance);
-	}
+	
 // New Comment for balance
 	
 	public Account(String name, double balance) {
